@@ -1,0 +1,13 @@
+id: P12EA8F3C
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 6,08: Kathāvastu'
+  language: bo
+  volumes:
+    09cb9ddf2c0c443c909f4721630df9e7:
+      title: Kathāvastu
+      base_file: Kathāvastu.txt
+      work_id: W0E8B1433
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:57:02.706859'
+last_modified_at: '2022-03-01T22:57:02.706866'
